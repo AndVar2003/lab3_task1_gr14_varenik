@@ -4,7 +4,7 @@ It is public template of assignment `"labrabota 3"` for FPMI students
 
 # Usage
 
-**{Varenik Andrew 14 group}**.
+**Varenik Andrew, 14 group**.
 
 # Building
 
